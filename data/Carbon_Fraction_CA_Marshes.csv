@@ -1,0 +1,72 @@
+study_id,site_id,core_id,organic_matter_density,latitude,longitude
+Arias-Ortiz_et_al_2021,US-MyB,Phragmites,0.21240602258006003,38.049901,-121.765744
+Arias-Ortiz_et_al_2021,US-MyB,Typha M1,0.20466762662151675,38.049846,-121.765356
+Arias-Ortiz_et_al_2021,US-MyB,Typha M2,0.23300299005442995,38.050084,-121.766915
+Arias-Ortiz_et_al_2021,US-Tw1,Typha W1,0.04322401151641102,38.107379,-121.647138
+Arias-Ortiz_et_al_2021,US-Tw1,Typha W2,0.09725267191781699,38.10736,-121.647339
+Arias-Ortiz_et_al_2021,US-Tw1,Typha W3,0.07784136505079223,38.107269,-121.64784
+Buffington_et_al_2020,Miner_Slough,MS-C1,0.11050245673333332,38.23409,-121.67174
+Callaway_et_al_2019,Brown_Island,Browns_Island_A_High,0.09815307411763537,38.036383,-121.858572
+Callaway_et_al_2019,Brown_Island,Browns_Island_A_Low,0.061403216546284965,38.038669,-121.859364
+Callaway_et_al_2019,Brown_Island,Browns_Island_A_Mid,0.0824670678708033,38.037589,-121.859037
+Callaway_et_al_2019,Brown_Island,Browns_Island_B_High,0.09221833817876732,38.036008,-121.867879
+Callaway_et_al_2019,Brown_Island,Browns_Island_B_Low,0.07841538632769565,38.038047,-121.868452
+Callaway_et_al_2019,Brown_Island,Browns_Island_B_Mid,0.09891999484836353,38.037087,-121.868109
+Callaway_et_al_2019,China_Camp,China_Camp_A_High,0.07264957647571384,38.008607,-122.48717
+Callaway_et_al_2019,China_Camp,China_Camp_A_Low,0.0539039915767787,38.010989,-122.485167
+Callaway_et_al_2019,China_Camp,China_Camp_A_Mid,0.04533928014919561,38.009774,-122.485707
+Callaway_et_al_2019,China_Camp,China_Camp_B_High,0.06401298620652861,38.012053,-122.500265
+Callaway_et_al_2019,China_Camp,China_Camp_B_Low,0.057621431046048756,38.015378,-122.498522
+Callaway_et_al_2019,China_Camp,China_Camp_B_Mid,0.06283715503554901,38.013872,-122.499442
+Callaway_et_al_2019,Cogswell,Cogswell_A_high,0.04387851897653937,37.640982,-122.148279
+Callaway_et_al_2019,Cogswell,Cogswell_A_low,0.061951790379504226,37.638647,-122.149693
+Callaway_et_al_2019,Cogswell,Cogswell_A_mid,0.04275803608427766,37.639781,-122.148788
+Callaway_et_al_2019,Cogswell,Cogswell_B_high,0.04429346939033942,37.635616,-122.150167
+Callaway_et_al_2019,Cogswell,Cogswell_B_low,0.04691184481837733,37.632828,-122.151611
+Callaway_et_al_2019,Cogswell,Cogswell_B_mid,0.0485449562655001,37.63431,-122.15068
+Callaway_et_al_2019,Coon_Island,Coon_Island_A_High,0.059299721116692114,38.193959,-122.323214
+Callaway_et_al_2019,Coon_Island,Coon_Island_A_Low,0.05913936611474203,38.196112,-122.321028
+Callaway_et_al_2019,Coon_Island,Coon_Island_A_Mid,0.0624159259043804,38.194802,-122.322285
+Callaway_et_al_2019,Coon_Island,Coon_Island_B_High,0.06635252186570652,38.192405,-122.323331
+Callaway_et_al_2019,Coon_Island,Coon_Island_B_Mid,0.05954350929519336,38.18979,-122.322913
+Callaway_et_al_2019,Coon_Island,Coon_Island_C_High,0.06094788726498722,38.19595,-122.32569
+Callaway_et_al_2019,Coon_Island,Coon_Island_C_Low,0.0556049443034323,38.1986,-122.323662
+Callaway_et_al_2019,Coon_Island,Coon_Island_C_Mid,0.056992262467969845,38.197805,-122.325346
+Callaway_et_al_2019,Coon_Island,Coon_Island_D_High,0.05505677284658296,38.189456,-122.320668
+Callaway_et_al_2019,Coon_Island,Coon_Island_D_Low,0.07625742516271353,38.186543,-122.319232
+Callaway_et_al_2019,Coon_Island,Coon_Island_D_Mid,0.05467567940455247,38.187623,-122.319822
+Callaway_et_al_2019,Muzzi,Muzzi_A_high,0.07061438629522657,37.928145,-122.508436
+Callaway_et_al_2019,Muzzi,Muzzi_A_low,0.04484970468570078,37.929569,-122.503666
+Callaway_et_al_2019,Muzzi,Muzzi_A_mid,0.044819848203638164,37.928829,-122.505893
+Callaway_et_al_2019,Muzzi,Muzzi_B_high,0.05408747999914554,37.926451,-122.509081
+Callaway_et_al_2019,Muzzi,Muzzi_B_low,0.04362552135707686,37.927304,-122.503612
+Callaway_et_al_2019,Muzzi,Muzzi_B_mid,0.04616309278026725,37.926955,-122.50623
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_A_High,0.06253854850720586,38.17819,-122.553551
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_A_Low,0.05966921135650845,38.179712,-122.543043
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_A_Mid,0.05287547562764034,38.178553,-122.549684
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_B_High,0.05481776828548672,38.16315,-122.554428
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_B_Low,0.06246175262371147,38.158771,-122.553676
+Callaway_et_al_2019,Petaluma_River,Petaluma_River_Marsh_B_Mid,0.05658284469987963,38.16128,-122.554058
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_A_High,0.07201128799882012,38.191488,-122.013634
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_A_Low,0.07671051129863947,38.18954,-122.011907
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_A_Mid,0.09801955471409862,38.190525,-122.012788
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_B_High,0.08155567894593119,38.202337,-122.036942
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_B_Low,0.0731223697729914,38.202419,-122.039424
+Callaway_et_al_2019,Rush_Ranch,Rush_Ranch_B_Mid,0.09567193997679166,38.202247,-122.038437
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_A_High,0.04552183774557483,37.600374,-122.142273
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_A_Low,0.04954621912725372,37.600394,-122.143951
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_A_Mid,0.04982376771995244,37.600351,-122.14556
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_B_High,0.05584306134831156,37.587746,-122.141849
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_B_Low,0.049547263049560634,37.589494,-122.145483
+Callaway_et_al_2019,Whale's_Tail,Whales_Tail_B_Mid,0.050729158768595524,37.588646,-122.143571
+Carlin_et_al_2021,ELM1812,ELM1812-PWA1,0.11683946821250629,37.615583,-122.11405
+Carlin_et_al_2021,ELM1812,ELM1812-SPA2,0.10627989417335311,37.615667,-122.113967
+Drexler_et_al_2009,Bacon Channel Island,BACHI,0.07401466666666666,38.010006,-121.5569
+Drexler_et_al_2009,Franks Wetland,FW,0.09601327220228571,38.060906,-121.609758
+Drexler_et_al_2009,Time of Mandeval Tip,TT,0.09939257142857143,38.064606,-121.537556
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_East_low,0.0458952,32.567032,-117.130867
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_East_mid_1,0.05694686,32.566902,-117.130284
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_East_mid_2,0.055355249999999995,32.566728,-117.129669
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_West_low,0.044384475,32.571838,-117.129704
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_West_mid_1,0.05864782,32.572039,-117.130432
+Weis_et_al_2001,Tijuana_Estuary,Tijuana_Estuary_West_mid_2,0.053890775,32.572335,-117.131078
